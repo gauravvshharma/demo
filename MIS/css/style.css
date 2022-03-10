@@ -9536,23 +9536,36 @@ footer {
     width:60px;
     height:90px;
     bottom:140px;
-    right:12px;
-      
-    color:#FFF;
+    right: 40px;
     border-radius:50px;
     text-align:center;
-    font-size:30px;
-    
     z-index:1000;
   }
 
-  .dfBDQI {
-    display: none !important;
-    opacity: 0 !important;
+  .whatsapp {
+  position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+  border : 1px solid #25d366;
+	color:#FFF;
+	border-radius:50%;
+	text-align:center;
+	box-shadow: 2px 2px 2px #999;
+  z-index:1000;
   }
-  
+  .whatsapp:hover {
+    color : #222;
+  }
+
+  .whatsapp-widget .whatsapp i {
+    font-size : 38px
+  }
+
   .my-float{
-    margin-top:16px;
+    margin-top:10px;
   }
   
   .header {
