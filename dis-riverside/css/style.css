@@ -8222,7 +8222,7 @@ h1, h2, h3, h4, h5,
   background-position: top center;
   position: relative;
   background-image: url('../images/image_5.jpeg');
-  height: 444px;
+  height: 500px;
   background-position: center;
 }
   @media (max-width: 1199.98px) {
@@ -8691,7 +8691,7 @@ textarea.form-control {
   box-shadow: 0px 15px 34px -29px rgba(0, 0, 0, 0.54); }
   @media (min-width: 992px) {
     .ftco-book .appointment-form {
-      margin-top: -440px; } }
+      margin-top: -500px; } }
   .ftco-book .form-heading {
     color:#7c0e0d;
     font-family: 'Playfair Display', serif;
@@ -9510,7 +9510,7 @@ footer {
 
     h1.subheading {
       font-size: 32px;
-      margin: 20px auto;
+      margin: 40px auto;
       font-family: "Playfair Display", serif;
       font-weight: 500;
       line-height: 1.6;
@@ -9594,7 +9594,7 @@ footer {
   }
 
 #logo-desktop {display: block; height: 80px;}
-#logo-mobile {display: none; height: 80px;}
+#logo-mobile {display: none; height: 60px;}
 
 @media screen and (max-width: 768px) {
 #logo-desktop {display: none;}
