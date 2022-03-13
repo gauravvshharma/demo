@@ -9549,7 +9549,7 @@ footer {
     width:60px;
     height:90px;
     bottom:140px;
-    right: 40px;
+    right: 20px;
     border-radius:50px;
     text-align:center;
     z-index:1000;
@@ -9560,7 +9560,7 @@ footer {
 	width:60px;
 	height:60px;
 	bottom:40px;
-	right:40px;
+	right:20px;
 	background-color:#25d366;
   border : 1px solid #25d366;
 	color:#FFF;
