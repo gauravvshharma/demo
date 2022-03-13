@@ -26,6 +26,11 @@
       background: #7c0e0d;
       color: #fff; }
 
+      .btn-invert {
+        background: #fff !important; 
+        border: 1px solid #fff !important;
+        color: #7c0e0d !important;; }      
+
  /* Color codes */
 :root {
   --indigo: #6610f2;
@@ -9578,8 +9583,8 @@ footer {
   
   .header {
     padding: 10px;
-    background-color: #33333357;
-    color: #f1f1f1;
+    background-color: #7c0e0d;
+    color: #fff;
   }
   
   .content {
